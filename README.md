@@ -1,2 +1,1 @@
-# 2025-works-collection
-A collection of all my projects completed in 2025.
+"2025 Works Collection" is a curated repository showcasing all the projects I have worked on throughout the year 2025. Each project highlights key objectives, technologies used, and insights gained during development. This collection serves as a portfolio and a reflection of my journey in software development and beyond.
