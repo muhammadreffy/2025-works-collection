@@ -15,6 +15,7 @@
 This project is a simple e-commerce application designed to implement basic features commonly found in e-commerce platforms. While not perfect, this project serves as a hands-on learning experience for building an application with React.js using a real-world use case.
 
 ## Key Features
+- **Login & Register**: Users can register and log in to access personalized features.
 - **Product Management**: Admins can manage products. Non-admin users are restricted from accessing product management endpoints.
 - **Product Listing with Pagination**: Products are displayed with pagination for better user experience.
 - **Shopping Cart**: Users can add products to the cart. The cart page includes an order summary that automatically calculates the total cost.
@@ -25,6 +26,7 @@ This project is a simple e-commerce application designed to implement basic feat
 - React Redux
 - ShadCN
 - Tailwind CSS
+- Zod (for validation)
 - JSON Server (as a dummy API)
 
 This project is a stepping stone for further mastering React and front-end development.
@@ -35,6 +37,7 @@ This project is a stepping stone for further mastering React and front-end devel
 Proyek ini adalah aplikasi e-commerce sederhana yang dirancang untuk menerapkan fitur-fitur dasar yang umumnya ada pada platform e-commerce. Meskipun belum sempurna, proyek ini berfungsi sebagai pengalaman pembelajaran langsung dalam membangun aplikasi menggunakan React.js dengan studi kasus nyata.
 
 ### Fitur Utama
+- **Login & Register**: Pengguna dapat mendaftar dan masuk untuk mengakses fitur personal.
 - **Manajemen Produk**: Admin dapat mengelola produk. Pengguna non-admin tidak dapat mengakses endpoint manajemen produk.
 - **Daftar Produk dengan Paginasi**: Produk ditampilkan dengan fitur paginasi untuk pengalaman pengguna yang lebih baik.
 - **Keranjang Belanja**: Pengguna dapat menambahkan produk ke keranjang. Halaman keranjang dilengkapi dengan ringkasan pesanan yang otomatis menghitung total belanja.
@@ -45,6 +48,7 @@ Proyek ini adalah aplikasi e-commerce sederhana yang dirancang untuk menerapkan 
 - React Redux
 - ShadCN
 - Tailwind CSS
+- Zod (untuk validasi)
 - JSON Server (sebagai dummy API)
 
 Proyek ini merupakan langkah awal untuk menguasai React dan pengembangan front-end lebih lanjut.
