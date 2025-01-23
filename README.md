@@ -1,13 +1,14 @@
-In English:
+## In English:
 
 "2025 Works Collection" is a curated repository showcasing all the projects I have worked on throughout the year 2025. Each project highlights key objectives, technologies used, and insights gained during development. This collection serves as a portfolio and a reflection of my journey in software development and beyond.
 
 
-In Indonesian:
+## Dalam Indonesia:
 
 "2025 Works Collection" adalah repository yang memuat kumpulan proyek yang telah saya kerjakan sepanjang tahun 2025. Setiap proyek mencakup tujuan utama, teknologi yang digunakan, dan pembelajaran yang diperoleh selama pengembangan. Koleksi ini berfungsi sebagai portofolio sekaligus refleksi dari perjalanan saya di bidang pengembangan perangkat lunak dan lainnya.
 
-# Simple E-commerce Project
+## In English
+# 1. Simple E-commerce Project
 
 This project is a simple e-commerce application designed to implement basic features commonly found in e-commerce platforms. While not perfect, this project serves as a hands-on learning experience for building an application with React.js using a real-world use case.
 
@@ -29,7 +30,7 @@ This project is a stepping stone for further mastering React and front-end devel
 ---
 
 ## Bahasa Indonesia
-### Proyek E-commerce Sederhana
+### 1. Proyek E-commerce Sederhana
 
 Proyek ini adalah aplikasi e-commerce sederhana yang dirancang untuk menerapkan fitur-fitur dasar yang umumnya ada pada platform e-commerce. Meskipun belum sempurna, proyek ini berfungsi sebagai pengalaman pembelajaran langsung dalam membangun aplikasi menggunakan React.js dengan studi kasus nyata.
 
