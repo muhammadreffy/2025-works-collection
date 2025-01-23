@@ -7,7 +7,7 @@
 
 "2025 Works Collection" adalah repository yang memuat kumpulan proyek yang telah saya kerjakan sepanjang tahun 2025. Setiap proyek mencakup tujuan utama, teknologi yang digunakan, dan pembelajaran yang diperoleh selama pengembangan. Koleksi ini berfungsi sebagai portofolio sekaligus refleksi dari perjalanan saya di bidang pengembangan perangkat lunak dan lainnya.
 
-<br><br>
+<br>
 
 # 1. Simple E-commerce Project
 
